@@ -8,4 +8,4 @@
 
 set -e # Exit on failure
 
-exec /tmp/codecrafters-build-http-server-swift "$@"
+exec swift run codecrafters-build-http-server-swift "$@"

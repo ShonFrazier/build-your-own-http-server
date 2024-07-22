@@ -9,4 +9,3 @@
 set -e # Exit on failure
 
 swift build -c release
-mv $(swift build -c release --show-bin-path)/codecrafters-build-http-server-swift /tmp/
