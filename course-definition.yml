@@ -75,6 +75,7 @@ languages:
   - slug: "python"
   - slug: "ruby"
   - slug: "rust"
+  - slug: "swift"
   - slug: "typescript"
   - slug: "zig"
   - slug: "dart"
