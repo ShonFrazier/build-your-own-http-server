@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1.7-labs
-FROM swift:5.10-slim
+FROM swift:5.10
 
 WORKDIR /app
 
